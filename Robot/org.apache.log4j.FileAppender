@@ -1,0 +1,6 @@
+21:17:36:989 INFO[main](RegistrarHogarCamposObligatorios.java:291)-Log4j, Login Correcto. 
+21:17:36:992 ERROR[main](RegistrarHogarCamposObligatorios.java:292)-Log4j, Prueba mensaje de error. 
+21:17:36:992 DEBUG[main](RegistrarHogarCamposObligatorios.java:293)-Log4j, Prueba mensaje debug. 
+21:17:36:993 INFO[main](RegistrarHogarCamposObligatorios.java:294)-Log4j, Prueba mensaje de info. 
+21:17:36:993 WARN[main](RegistrarHogarCamposObligatorios.java:295)-Log4j, Prueba mensaje de warn. 
+21:17:36:993 FATAL[main](RegistrarHogarCamposObligatorios.java:296)-Log4j, Prueba mensaje fatal. 

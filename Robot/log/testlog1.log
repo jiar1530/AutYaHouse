@@ -1,0 +1,291 @@
+2021-02-21 20:41:55,101 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-21 20:42:55,077 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-21 20:44:35,553 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-21 20:46:16,050 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-21 20:47:53,613 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-21 22:19:21,382 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-21 22:20:21,369 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-21 22:53:28,600 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatoriosQA - Log4j, Registro Hogar Exitoso.
+2021-02-21 22:58:04,716 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatoriosQA - Log4j, Registro Hogar Exitoso.
+2021-02-22 00:55:36,126 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-22 00:55:57,192 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-22 07:26:15,676 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-22 10:39:11,332 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
+2021-02-22 10:50:13,333 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
+2021-02-22 10:54:13,673 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
+2021-02-22 16:05:33,591 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-22 16:06:29,220 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-22 16:07:41,323 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-22 16:08:41,494 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-22 16:10:22,368 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-22 16:12:06,195 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-22 16:13:48,489 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-22 16:19:09,855 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
+2021-02-22 16:19:51,641 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
+2021-02-22 16:23:34,385 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-22 16:24:30,113 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-22 16:25:30,114 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-22 16:26:33,045 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-22 16:28:11,129 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-22 16:29:52,909 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-22 16:31:33,724 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-22 16:32:17,145 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
+2021-02-22 16:32:59,423 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
+2021-02-22 20:16:26,297 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
+2021-02-22 20:17:06,342 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
+2021-02-22 20:37:26,324 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-22 20:37:27,003 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-22 20:52:44,696 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-22 20:52:45,363 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-22 22:36:30,732 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Registro Hogar Exitoso.
+2021-02-22 22:37:02,449 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Registro Hogar Exitoso.
+2021-02-22 22:42:25,546 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-22 22:42:27,936 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-22 22:44:14,027 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-22 22:44:48,680 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-22 22:50:28,481 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-22 22:50:30,799 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-22 22:51:23,233 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-22 22:52:18,964 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-22 22:53:15,223 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatoriosQA - Log4j, Registro Hogar Exitoso.
+2021-02-22 22:54:10,931 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatoriosQA - Log4j, Registro Hogar Exitoso.
+2021-02-22 22:56:03,078 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-22 22:56:38,428 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-22 23:06:42,365 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-22 23:06:44,691 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-22 23:07:39,860 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-22 23:08:31,576 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-22 23:09:28,598 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatoriosQA - Log4j, Registro Hogar Exitoso.
+2021-02-22 23:10:22,191 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatoriosQA - Log4j, Registro Hogar Exitoso.
+2021-02-22 23:12:24,298 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-22 23:13:06,887 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-22 23:31:09,167 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-22 23:31:11,468 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-22 23:32:08,153 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-22 23:33:04,781 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-22 23:34:09,587 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatoriosQA - Log4j, Registro Hogar Exitoso.
+2021-02-22 23:35:08,791 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatoriosQA - Log4j, Registro Hogar Exitoso.
+2021-02-22 23:36:46,232 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-22 23:38:18,183 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-22 23:38:54,176 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-23 07:02:17,656 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 07:02:21,426 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 07:03:16,702 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-23 07:04:11,994 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-23 07:05:09,885 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatoriosQA - Log4j, Registro Hogar Exitoso.
+2021-02-23 07:06:05,921 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatoriosQA - Log4j, Registro Hogar Exitoso.
+2021-02-23 07:07:43,793 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-23 07:09:12,960 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-23 07:09:54,747 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-23 07:33:30,847 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-23 07:34:27,324 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-23 07:35:23,290 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-23 07:36:16,616 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-23 07:37:09,326 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-23 07:39:33,150 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 07:39:37,598 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 07:40:36,961 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-23 07:41:35,617 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-23 07:42:38,646 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatoriosQA - Log4j, Registro Hogar Exitoso.
+2021-02-23 07:43:38,055 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatoriosQA - Log4j, Registro Hogar Exitoso.
+2021-02-23 07:45:18,198 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-23 07:46:52,885 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-23 07:47:30,393 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-23 07:48:19,040 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-23 07:49:06,313 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-23 10:09:33,328 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 10:09:36,419 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 10:15:57,264 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 10:15:57,992 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 10:17:38,812 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 10:17:39,494 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 10:20:28,370 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 10:20:29,097 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 10:21:50,290 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 10:21:50,959 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 10:27:12,288 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 10:27:12,927 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 11:19:08,448 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 11:19:09,090 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 11:24:58,261 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 11:24:58,842 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 11:25:51,296 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-23 11:27:01,467 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 11:27:02,049 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 11:37:25,449 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 11:37:26,435 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 11:48:53,532 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-23 11:55:50,786 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 11:55:51,796 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 11:58:56,197 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 11:58:57,237 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 12:02:58,076 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 12:02:59,044 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 12:05:07,936 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 12:05:09,031 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 12:06:04,191 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-23 12:07:33,676 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 12:07:34,852 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 12:08:29,401 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-23 12:09:42,548 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 12:09:43,588 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 12:12:01,524 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 12:12:02,589 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 12:12:47,898 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 12:12:48,932 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 12:13:40,905 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-23 15:00:06,002 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-23 20:52:21,854 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 20:52:25,568 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-23 20:53:24,025 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-23 20:54:24,344 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-23 20:55:27,247 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatoriosQA - Log4j, Registro Hogar Exitoso.
+2021-02-23 20:56:25,945 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatoriosQA - Log4j, Registro Hogar Exitoso.
+2021-02-23 20:58:05,465 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-23 20:59:51,689 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-25 10:59:48,710 [main] INFO com.selenium.test.ActosAdministrativosQA - Log4j, Acto Administrativo Exitoso.
+2021-02-25 11:23:28,645 [main] INFO com.selenium.test.ActosAdministrativosQA - Log4j, Acto Administrativo Exitoso.
+2021-02-25 11:33:51,420 [main] INFO com.selenium.test.ActosAdministrativosQA - Log4j, Acto Administrativo Exitoso.
+2021-02-26 00:27:01,660 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-26 00:29:13,928 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-26 00:48:20,384 [main] INFO com.selenium.test.PerdidaEjecutoriedadQA - Log4j, Perdida de Ejecutoriedad Exitoso.
+2021-02-26 06:24:48,370 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-26 06:24:53,757 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-26 06:25:57,181 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 06:26:59,209 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 06:28:05,755 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatoriosQA - Log4j, Registro Hogar Exitoso.
+2021-02-26 06:29:06,498 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatoriosQA - Log4j, Registro Hogar Exitoso.
+2021-02-26 06:30:17,950 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-26 06:30:57,017 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-26 06:50:41,699 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 06:51:43,277 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 07:24:00,800 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 07:24:57,737 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 07:25:58,684 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 07:27:00,853 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 07:29:32,530 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
+2021-02-26 07:44:06,841 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 07:45:05,748 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 07:46:04,420 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 07:47:02,721 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 07:48:00,679 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 07:48:57,297 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 07:49:54,963 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 07:50:55,534 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 07:51:52,287 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 08:32:49,650 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-26 08:32:55,376 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-26 08:40:05,328 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-26 08:40:10,892 [main] ERROR com.selenium.database.Consultas - Error mientras se ejecutaba el query en getResultSetnull query--> select distinct numero_identificacion from terceros where numero_identificacion between '31960950' and '31962044' and ROWNUM <= 2
+2021-02-26 08:42:39,563 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 08:46:22,476 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatoriosQA - Log4j, Registro Hogar Exitoso.
+2021-02-26 08:51:30,798 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-26 08:54:01,364 [main] INFO com.selenium.test.BloqueoHogarQA - Log4j, Bloqueo Hogar Exitoso.
+2021-02-26 09:06:27,995 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 09:07:21,867 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 09:08:18,336 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 09:09:12,215 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 09:11:03,060 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 09:11:57,440 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 09:13:11,557 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 09:46:08,600 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 09:47:09,522 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 09:48:10,873 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 09:50:36,856 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
+2021-02-26 11:31:25,137 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 12:05:14,734 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
+2021-02-26 12:09:53,523 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 12:11:11,093 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 12:12:34,832 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 12:15:11,756 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
+2021-02-26 12:36:32,667 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 12:38:08,113 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 12:39:19,302 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 13:01:12,104 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 13:07:34,408 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-26 14:12:03,575 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 14:26:35,456 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 14:35:20,790 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-26 15:06:15,972 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-26 15:15:19,181 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 15:18:05,728 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 15:19:42,775 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 15:24:42,347 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 15:26:32,958 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 15:29:24,936 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 15:31:32,746 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-26 15:33:10,652 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-26 15:34:53,631 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-26 16:23:34,828 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 16:26:00,266 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-26 16:27:41,304 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-26 16:29:24,083 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-26 17:26:37,542 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 17:40:24,557 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 17:44:43,956 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 17:47:59,048 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 17:51:25,251 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-26 17:58:40,704 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-26 18:01:23,606 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-26 18:03:17,708 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Marcar Hogar Exitoso.
+2021-02-26 18:05:26,346 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
+2021-02-28 10:55:12,675 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 16:55:56,263 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 18:22:22,169 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 18:28:45,208 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 19:51:12,176 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 19:55:27,576 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 20:15:32,831 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 20:16:32,749 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 20:17:36,536 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 20:18:39,984 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 21:07:30,820 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 21:08:30,985 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 21:09:31,064 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 21:10:34,679 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 21:16:21,764 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 21:17:25,353 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 21:47:26,991 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
+2021-02-28 22:07:54,265 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 22:08:58,607 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 22:10:04,245 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 22:11:08,793 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 22:12:11,277 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 22:13:14,037 [main] INFO com.selenium.test.RegistrarHogarCamposNoObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 23:53:30,919 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 23:54:30,731 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 23:55:28,792 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-02-28 23:56:26,834 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 00:11:36,679 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 00:12:36,984 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 00:13:39,253 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 00:14:38,644 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 00:15:38,928 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 00:16:39,273 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 00:17:35,988 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 00:18:33,023 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 00:19:28,569 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 00:20:25,761 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 00:21:25,902 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 07:48:14,982 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 07:49:31,146 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 07:50:42,888 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 07:51:49,345 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 07:52:51,012 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 07:53:53,217 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 07:54:53,481 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 07:55:56,792 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 08:04:55,701 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
+2021-03-01 09:13:31,690 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
+2021-03-01 09:44:57,996 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 09:46:09,515 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 09:47:34,348 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 09:48:47,800 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 09:49:49,052 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 09:50:50,075 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 09:51:51,892 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 09:53:09,381 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 09:54:13,011 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 09:55:27,795 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 09:56:35,813 [main] INFO com.selenium.test.RegistrarHogarCamposObligatorios - Log4j, Registro Hogar Exitoso.
+2021-03-01 10:06:12,974 [main] INFO com.selenium.test.ActosAdministrativos - Log4j, Acto Administrativo Exitoso.
